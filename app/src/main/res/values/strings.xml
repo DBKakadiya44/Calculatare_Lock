@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculatare Lock</string>
+
+    <string name="drive1">Files some time missed?\10To Hide Video &amp; Photo to Backup Cloud and Solve Problem.</string>
+    <string name="drive2">This Hide Video &amp; Photo Backup to Privately to Store and not Any other to find it!</string>
+
+    <string-array name="planets_array">
+        <item>Where\'s my birthplace?</item>
+        <item>What is Your Birthday month?</item>
+        <item>Who is your best friend?</item>
+        <item>What was your first car?</item>
+        <item>Who is your favourite cricketer?</item>
+        <item>Which is your favourite movie?</item>
+        <item>Which is your favourite song?</item>
+    </string-array>
+
+    <string-array name="social_array">
+        <item>Facebook</item>
+        <item>Instagram</item>
+        <item>Snapchat</item>
+        <item>Linkdin</item>
+        <item>Hotstar</item>
+        <item>Netflix</item>
+        <item>other</item>
+    </string-array>
+
+</resources>

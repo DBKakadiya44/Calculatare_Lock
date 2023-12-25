@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6872874070",
+    "project_id": "db-calculatare-lock",
+    "storage_bucket": "db-calculatare-lock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6872874070:android:5878f87e27e5cb63984ff7",
+        "android_client_info": {
+          "package_name": "com.db.calculatarelock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC52xBts8Y261GMc2DbUZBGejdmUMBAYho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
